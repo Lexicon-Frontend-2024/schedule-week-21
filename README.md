@@ -17,3 +17,4 @@
 
 
 ### Övningar
+* [HTML: Receptövning](https://github.com/Lexicon-Frontend-2024/exercise-html-css-recipe)
