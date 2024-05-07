@@ -1,8 +1,12 @@
 # Schema Vecka 21
 
 ### Mål för veckan
-
+1. Grundläggande kunskaper inom HTML
+2. Grundläggande kunskaper inom CSS
+3. Introduktion till Git
+4. Grunder inom agila metoder
 ### Material
+#### E-Learning
 #### Video
 * [Scrimba HTML och CSS](https://scrimba.com/learn/htmlandcss)
 #### Läsning
@@ -12,6 +16,5 @@
 * [CSS specificity](https://specificity.keegan.st/)
 * [Mer CSS specificity](https://css-tricks.com/specifics-on-css-specificity/)
 
-#### E-Learning
 
 ### Övningar
