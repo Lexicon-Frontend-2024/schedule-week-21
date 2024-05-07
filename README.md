@@ -11,6 +11,8 @@
 * [Web Development with HTML & CSS: The Big Picture](https://app.pluralsight.com/library/courses/html-css-web-development-big-picture/table-of-contents)
 * [HTML Fundamentals](https://app.pluralsight.com/library/courses/html-fundamentals/table-of-contents) _( Ej del av HTML & CSS path)_
 * [HTML and CSS Fundamentals](https://app.pluralsight.com/library/courses/html-css-fundamentals/table-of-contents)
+* [Git generellt](https://app.pluralsight.com/library/courses/git-big-picture/table-of-contents)
+* [Git-grunder](https://app.pluralsight.com/library/courses/fundamentals-git/table-of-contents)
 #### Video
 * [Scrimba HTML och CSS](https://scrimba.com/learn/htmlandcss)
 #### Läsning
