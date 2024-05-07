@@ -1,5 +1,5 @@
 # Schema Vecka 21
-## HTML & CSS, vecka 1 av 5
+###### HTML & CSS, vecka 1 av 5
 
 ### Mål för veckan
 1. Skapa en HTML-sida med minst 6 olika elementtyper
