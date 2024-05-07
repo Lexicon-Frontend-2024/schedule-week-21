@@ -1,10 +1,9 @@
 # Schema Vecka 21
 
 ### Mål för veckan
-1. Grundläggande kunskaper inom HTML
-2. Grundläggande kunskaper inom CSS
-3. Introduktion till Git
-4. Grunder inom agila metoder
+1. Skapa en HTML-sida med minst 6 olika elementtyper
+2. Koppla en CSS till din HTML-sida och styla olika element
+3. Skapa ett nytt git-repo och pusha en ändring
 ### Material
 #### E-Learning
 #### Video
