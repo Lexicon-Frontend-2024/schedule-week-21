@@ -1,4 +1,5 @@
 # Schema Vecka 21
+## HTML & CSS, vecka 1/5
 
 ### Mål för veckan
 1. Skapa en HTML-sida med minst 6 olika elementtyper
@@ -26,3 +27,22 @@
 ### Övningar
 * [HTML: Receptövning](https://github.com/Lexicon-Frontend-2024/exercise-html-css-recipe)
 * [HTML och CSS: Hyllningen](https://github.com/Lexicon-Frontend-2024/exercise-html-css-hyllningen)
+
+
+## HTML & CSS
+Antal veckor: 5
+
+**Kursbeskrivning:** Syftet med kursen är att den studerande ska få de kunskaper, färdigheter och kompetenser inom HTML och CSS som krävs för att kunna arbeta som frontendutvecklare. 
+
+Målet med kursen är att den studerande genom teori och praktiska 
+övningar, ska förstå och utveckla grundläggande, såväl som  
+specialiserade kunskaper, i hur man skapar olika typer av webblösningar  
+med teknikerna HTML och CSS. 
+
+**Kursinnehåll:** 
+Semantisk HTML
+CSS Syntax 
+Grunderna i versionshantering med Git
+Layout med CSS ( flexbox och CSS grid )
+Responsivitet
+
