@@ -4,6 +4,6 @@
 
 ### Material
 
-#### E-Learning Material
+#### E-Learning
 
 ### Övningar
