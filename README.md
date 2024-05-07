@@ -18,4 +18,4 @@
 
 ### Övningar
 * [HTML: Receptövning](https://github.com/Lexicon-Frontend-2024/exercise-html-css-recipe)
-* [HTML: Hyllningen](https://github.com/Lexicon-Frontend-2024/exercise-html-css-hyllningen)
+* [HTML och CSS: Hyllningen](https://github.com/Lexicon-Frontend-2024/exercise-html-css-hyllningen)
