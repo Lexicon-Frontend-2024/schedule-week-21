@@ -6,6 +6,11 @@
 3. Skapa ett nytt git-repo och pusha en ändring
 ### Material
 #### E-Learning
+[Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material/edit/main/README.md)
+Utvalda för denna veckan:
+* [Web Development with HTML & CSS: The Big Picture](https://app.pluralsight.com/library/courses/html-css-web-development-big-picture/table-of-contents)
+* [HTML Fundamentals](https://app.pluralsight.com/library/courses/html-fundamentals/table-of-contents) _( Ej del av HTML & CSS path)_
+* [HTML and CSS Fundamentals](https://app.pluralsight.com/library/courses/html-css-fundamentals/table-of-contents)
 #### Video
 * [Scrimba HTML och CSS](https://scrimba.com/learn/htmlandcss)
 #### Läsning
