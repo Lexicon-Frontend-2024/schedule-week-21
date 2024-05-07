@@ -12,9 +12,10 @@
 * [HTML-taggar](https://www.w3schools.com/tags/)
 * [Allmänt om HTML och CSS](https://css-tricks.com/where-do-you-learn-html-css-in-2020/)
 * [CSS vokabulär](http://apps.workflower.fi/vocabs/css/en#comment)
-* [CSS specificity](https://specificity.keegan.st/)
-* [Mer CSS specificity](https://css-tricks.com/specifics-on-css-specificity/)
+* [CSS-specificitet](https://specificity.keegan.st/)
+* [Mer CSS-specificitet](https://css-tricks.com/specifics-on-css-specificity/)
 
 
 ### Övningar
 * [HTML: Receptövning](https://github.com/Lexicon-Frontend-2024/exercise-html-css-recipe)
+* [HTML: Hyllningen](https://github.com/Lexicon-Frontend-2024/exercise-html-css-hyllningen)
