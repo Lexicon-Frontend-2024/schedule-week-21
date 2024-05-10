@@ -3,8 +3,9 @@
 
 ### Mål för veckan
 1. Skapa en HTML-sida med minst 6 olika elementtyper
-2. Koppla en CSS till din HTML-sida och styla olika element
-3. Skapa ett nytt git-repo och pusha en ändring
+2. Övergripande förståelse för semantisk HTML
+3. Koppla en CSS till din HTML-sida och styla olika element
+4. Skapa ett nytt git-repo och pusha en ändring
 ### Material
 #### E-Learning
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material/edit/main/README.md)
