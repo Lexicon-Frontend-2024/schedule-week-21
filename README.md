@@ -20,7 +20,7 @@
 #### Läsning
 * [HTML-taggar](https://www.w3schools.com/tags/)
 * [Allmänt om HTML och CSS](https://css-tricks.com/where-do-you-learn-html-css-in-2020/)
-* [CSS vokabulär](http://apps.workflower.fi/vocabs/css/en#comment)
+* [CSS vokabulär](https://www.codecademy.com/article/glossary-css)
 * [CSS-specificitet](https://specificity.keegan.st/)
 * [Mer CSS-specificitet](https://css-tricks.com/specifics-on-css-specificity/)
 
