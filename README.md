@@ -23,6 +23,7 @@
 * [CSS vokabulär](https://www.codecademy.com/article/glossary-css)
 * [CSS-specificitet](https://specificity.keegan.st/)
 * [Mer CSS-specificitet](https://css-tricks.com/specifics-on-css-specificity/)
+* [HTML validator](https://validator.w3.org/)
 
 
 ### Övningar
